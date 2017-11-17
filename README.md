@@ -1,13 +1,14 @@
 # Photogram 
 
-	![Imagen 1][1]  ![Imagen 2][2]
+Clon de Instagram Usando Javascript con Node.js
 
-	 [1]: photogram.png
-	 [2]: photogram.png "photogram"
+![cardinal](/photogram.png)  
+
+![cardinal](/photogram2.png)  
 
 ## Clon de Intagram (**fase alpha**)
 
-clon de instagran realizado utilizando node.js como lenguaje. este proyecto tiene como finanlidad hacer uso del lenguaje Javascript tanto en el front-end como en el back-end. y mostrar el poder de Javascript
+Clon de Instagran realizado utilizando node.js como lenguaje. Este proyecto tiene como finalidad hacer uso del lenguaje JavaScript tanto en el front-end como en el back-end. y mostrar el poder de JavaScript
 
 ## Dependencias Utilizadas 
 	dependencias principales de proyecto
@@ -32,4 +33,3 @@ clon de instagran realizado utilizando node.js como lenguaje. este proyecto tien
 	    "gulp-sass": "^3.1.0",
 	    "vinyl-source-stream": "^1.1.0",
 	    "watchify": "^3.9.0"
-
